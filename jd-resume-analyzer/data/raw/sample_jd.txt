@@ -1,0 +1,1 @@
+AI Graduate / Junior AI Engineer\nRequirements: Strong Python, ML fundamentals, scikit-learn; Nice to have: cloud (AWS), MLOps/deployment, LLM tools, APIs, CV/NLP.\n

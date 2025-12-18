@@ -1,0 +1,22 @@
+{
+  "id": "example-001",
+  "resume_text": "Python, SQL, scikit-learn, FastAPI, Docker. Built ML pipelines.",
+  "job_text": "Looking for Python, scikit-learn, MLOps, Docker, FastAPI, AWS, LLM tools.",
+  "gold": {
+    "skills": [
+      "python",
+      "machine learning",
+      "mlops"
+    ],
+    "tools": [
+      "scikit-learn",
+      "docker",
+      "fastapi",
+      "aws"
+    ],
+    "requirements": [
+      "experience with APIs",
+      "deploy models"
+    ]
+  }
+}

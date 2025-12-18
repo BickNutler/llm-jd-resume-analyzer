@@ -1,0 +1,1 @@
+Nicholas Butler\nSkills: Python, SQL, scikit-learn, XGBoost, LightGBM, Optuna, FastAPI, Docker\nExperience: Built end-to-end ML pipeline for income prediction using U.S. Census data.\n
